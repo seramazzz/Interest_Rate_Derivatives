@@ -15,7 +15,8 @@ Contains short write-ups (PDFs) introducing and deriving several of the most com
 - **Ho & Lee (1986)**  
 - **Hull & White (1990)**  
 - **Heath, Jarrow & Morton (HJM, 1992)**  
-- **Brace, Gatarek & Musiela (BGM, 1997)**  
+- **Brace, Gatarek & Musiela (BGM, 1997)**
+- **Hagan, Kumar, Lesniewski, and Woodward (SABR, 2002)**
 
 Each note is designed to give students a clear conceptual overview, showing how these models relate to each other and how they can be implemented or extended.  
 All derivations and explanations are written informally to highlight intuition rather than mathematical rigor.  
